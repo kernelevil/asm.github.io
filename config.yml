@@ -1,5 +1,5 @@
 baseURL: "https://kernelevil.github.io/asm.github.io/"
-canonifyURLs: true
+relativeURLs: true
 title: "ElegantCrazy's blog"
 languageCode: zh
 defaultContentLanguage: zh
