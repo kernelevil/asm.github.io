@@ -1,5 +1,4 @@
-baseURL: "https://kernelevil.github.io/"
-relativeURLs: true
+baseURL: ""
 title: "ElegantCrazy's blog"
 languageCode: zh
 defaultContentLanguage: zh
