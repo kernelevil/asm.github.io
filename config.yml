@@ -80,7 +80,7 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "YHJ's blog"
-    Content: Always be a learner
+    Content: 人人生而自由，却无往不在枷锁之中……
 
   socialIcons:
     - name: github
