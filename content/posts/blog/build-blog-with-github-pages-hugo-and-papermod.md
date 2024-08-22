@@ -720,15 +720,15 @@ git push
 
 在Github仓库页面，点击 **Actions** ，可以看到工作流的状态：
 
-![image-20230312230947340.png](/images/image-20230312230947340.png)
+![image-20230312230947340.png](./images/image-20230312230947340.png)
 
 当Github完成了生成与部署工作，状态标识的颜色会变成绿色：
 
-![image-20230312231241925.png](/images/image-20230312231241925.png)
+![image-20230312231241925.png](./images/image-20230312231241925.png)
 
 点击上面显示的commit信息，可以看到这个：
 
-![image-20230312231450220.png](/images/image-20230312231450220.png)  
+![image-20230312231450220.png](./images/image-20230312231450220.png)  
 
 在`deploy`步骤下，可以看到网站的链接。
 
