@@ -1,5 +1,5 @@
 baseURL: ""
-title: "ElegantCrazy's blog"
+title: "YHJ's blog"
 languageCode: zh
 defaultContentLanguage: zh
 paginate: 5
@@ -19,10 +19,10 @@ minify:
 params:
   fancybox: true
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: "ElegantCrazy's blog"
-  description: "ElegantCrazy's blog"
-  keywords: [Blog, ElegantCrazy]
-  author: ElegantCrazy
+  title: "YHJ's blog"
+  description: "YHJ's blog"
+  keywords: [Blog, YHJ]
+  author: YHJ
   # author: ["Me", "You"] # multiple authors
   images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "2006-01-02"
@@ -58,14 +58,14 @@ params:
     # safari_pinned_tab: "<link / abs url>"
 
   label:
-    text: "ElegantCrazy's blog"
+    text: "YHJ's blog"
     icon: /apple-touch-icon.png
     iconHeight: 35
 
   # profile-mode
   profileMode:
     enabled: false # needs to be explicitly set
-    title: "ElegantCrazy's blog"
+    title: "YHJ's blog"
     subtitle: "This is subtitle"
     imageUrl: "<img location>"
     imageWidth: 120
@@ -79,12 +79,12 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "ElegantCrazy's blog"
+    Title: "YHJ's blog"
     Content: Always be a learner
 
   socialIcons:
     - name: github
-      url: "https://github.com/ElegantCrazy"
+      url: "https://github.com/YHJ"
     - name: email
       url: "mailto://xu.wenhan@outlook.com"
 
@@ -97,7 +97,7 @@ params:
     #   SiteVerificationTag: "XYZabc"
 
   editPost:
-    URL: "https://github.com/ElegantCrazy/ElegantCrazy.github.io/blob/main/content"
+    URL: "https://github.com/YHJ/YHJ.github.io/blob/main/content"
     Text: "提交修改建议" # edit text
     appendFilePath: true # to append file path to Edit link
 

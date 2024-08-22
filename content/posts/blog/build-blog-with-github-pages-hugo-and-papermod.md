@@ -575,8 +575,7 @@ params:
 
 勾选`Add a README file`，点击`Create Repository`，创建仓库。
 
-
-![image-20230312223142762.png]({{ "/images/image-20230312223142762.png" | absURL }})
+![image-20230312223142762.png](/asm.github.io/images/image-20230312223142762.png) 
 
 ### 将本地仓库推送至Github
 
@@ -745,4 +744,4 @@ git push
 
 如果想要添加评论功能，可以参考我的下一篇文章。
 
-本文搭建的博客开源在我的项目仓库[ElegantCrazy/ElegantCrazy.github.io](https://github.com/ElegantCrazy/ElegantCrazy.github.io)中，大家也可以直接clone我的项目，简单配置后就可以快速拥有自己的个人博客了。
+本文搭建的博客开源在我的项目仓库[YHJ/YHJ.github.io](https://github.com/YHJ/YHJ.github.io)中，大家也可以直接clone我的项目，简单配置后就可以快速拥有自己的个人博客了。
