@@ -84,9 +84,9 @@ params:
 
   socialIcons:
     - name: github
-      url: "https://github.com/YHJ"
+      url: "https://github.com/"
     - name: email
-      url: "mailto://xu.wenhan@outlook.com"
+      url: "https://mail.qq.com/"
 
   analytics:
     google:
