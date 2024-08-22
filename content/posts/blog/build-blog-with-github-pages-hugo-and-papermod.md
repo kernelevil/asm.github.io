@@ -614,11 +614,11 @@ git push --set-upstream origin main
 
 访问Github仓库，选择 **Settings > Pages** ，在屏幕中间可以看到：
 
-![image-20230312230044090.png](/images/image-20230312230044090.png)  
+![image-20230312230044090.png](/asm.github.io/images/image-20230312230044090.png)  
 
 将 **Source** 切换至`GitHub Actions`，修改会立即生效，不需要点击`Save`。
 
-![image-20230312230218367.png](/images/image-20230312230218367.png)  
+![image-20230312230218367.png](/asm.github.io/images/image-20230312230218367.png)  
 
 ### 配置Github Actions
 
@@ -720,15 +720,15 @@ git push
 
 在Github仓库页面，点击 **Actions** ，可以看到工作流的状态：
 
-![image-20230312230947340.png](./images/image-20230312230947340.png)
+![image-20230312230947340.png](/asm.github.io/images/image-20230312230947340.png)
 
 当Github完成了生成与部署工作，状态标识的颜色会变成绿色：
 
-![image-20230312231241925.png](./images/image-20230312231241925.png)
+![image-20230312231241925.png](/asm.github.io/images/image-20230312231241925.png)
 
 点击上面显示的commit信息，可以看到这个：
 
-![image-20230312231450220.png](./images/image-20230312231450220.png)  
+![image-20230312231450220.png](/asm.github.io/images/image-20230312231450220.png)  
 
 在`deploy`步骤下，可以看到网站的链接。
 
