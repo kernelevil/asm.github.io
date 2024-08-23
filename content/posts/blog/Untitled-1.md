@@ -23,4 +23,4 @@ class Yang
 </div>
 </body>
 
-![](../../../static/images/2024-08-23-20-36-58-image.png)
+![](../../../images/2024-08-23-20-36-58-image.png)
