@@ -11,6 +11,7 @@ buildFuture: false
 buildExpired: false
 
 # googleAnalytics: G-Y74YH2FERV
+staticDir: images
 
 minify:
   disableXML: true
