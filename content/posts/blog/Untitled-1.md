@@ -23,4 +23,4 @@ class Yang
 </div>
 </body>
 
-![](D:\Hugo\Site\asm.github.io\static\images\image-20220215015237091.png)
+![](asm.github.io/images/2024-08-23-16-25-33-image.png)
