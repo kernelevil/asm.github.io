@@ -4,14 +4,16 @@ languageCode: zh
 defaultContentLanguage: zh
 paginate: 5
 theme: PaperMod
-
 enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
 buildExpired: false
 
+<<<<<<< HEAD
 # googleAnalytics: G-Y74YH2FERV
 
+=======
+>>>>>>> 662d106d3d2ffdf5240d4e0790879bf6caa6eedd
 minify:
   disableXML: true
   minifyOutput: true
