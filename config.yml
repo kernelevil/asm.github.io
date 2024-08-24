@@ -4,16 +4,16 @@ languageCode: zh
 defaultContentLanguage: zh
 paginate: 5
 theme: PaperMod
-
+staticdir: "/"
 enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
 buildExpired: false
 
 # googleAnalytics: G-Y74YH2FERV
-pasteImage.basePath: /static
-pasteImage.path: /static/images
-pasteImage.prefix: /
+#pasteImage.basePath: /static
+#pasteImage.path: /static/images
+#pasteImage.prefix: /
 minify:
   disableXML: true
   minifyOutput: true
