@@ -11,9 +11,13 @@ buildFuture: false
 buildExpired: false
 
 # googleAnalytics: G-Y74YH2FERV
+<<<<<<< HEAD
 pasteImage.basePath: '${projectRoot}/static'
 pasteImage.path: '${projectRoot}/static/images'
 pasteImage.prefix: /
+=======
+staticDir: /asm.github.io
+>>>>>>> b15b6453c1db0c8a202303bfe338cfdfc67d9d66
 
 minify:
   disableXML: true

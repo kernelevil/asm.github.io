@@ -575,7 +575,11 @@ params:
 
 勾选`Add a README file`，点击`Create Repository`，创建仓库。
 
+<<<<<<< HEAD
+![image-20230312223142762.png](/asm.github.io/images/image-20230312223142762.png) 
+=======
 ![image-20230312223142762.png](/images/image-20230312223142762.png) 
+>>>>>>> 40f8cf38573b02b2c8fa10cdac412140faefb233
 
 ### 将本地仓库推送至Github
 

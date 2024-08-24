@@ -23,4 +23,8 @@ class Yang
 </div>
 </body>
 
+<<<<<<< HEAD
 ![](../../../satic/images/2024-08-24-08-44-53-image.png)
+=======
+![](../../../images/2024-08-23-20-36-58-image.png)
+>>>>>>> b15b6453c1db0c8a202303bfe338cfdfc67d9d66
