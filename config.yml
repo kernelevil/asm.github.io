@@ -4,7 +4,7 @@ languageCode: zh
 defaultContentLanguage: zh
 paginate: 5
 theme: PaperMod
-staticdir: "/"
+staticdir: ""
 enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
