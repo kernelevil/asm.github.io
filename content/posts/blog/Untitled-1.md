@@ -23,4 +23,4 @@ class Yang
 </div>
 </body>
 
-![2024-08-23-16-25-33-image.png](/asm.github.io/images/2024-08-23-16-25-33-image.png)
+![](../../../satic/images/2024-08-24-08-44-53-image.png)
