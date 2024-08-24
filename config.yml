@@ -11,7 +11,6 @@ buildFuture: false
 buildExpired: false
 
 # googleAnalytics: G-Y74YH2FERV
-staticDir: /asm.github.io
 
 minify:
   disableXML: true

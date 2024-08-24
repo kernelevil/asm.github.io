@@ -17,10 +17,4 @@ class Yang
 }
 ```
 
-<body>
-<div>
-
-</div>
-</body>
-
-![](../../../images/2024-08-23-20-36-58-image.png)
+![]([2024-08-24-180924.png](https://postimg.cc/1fsWqSNX))
