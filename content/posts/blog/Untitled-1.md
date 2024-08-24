@@ -13,7 +13,7 @@
 ```java
 class Yang 
 {
-   static int a;
+   static int ab;
 }
 ```
 
