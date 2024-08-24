@@ -17,6 +17,6 @@ class Yang
 }
 ```
 
-![]([2024-08-24-180924.png](https://postimg.cc/1fsWqSNX))
+[![2024-08-24-180924.png](https://i.postimg.cc/L6ZGG69t/2024-08-24-180924.png)](https://postimg.cc/1fsWqSNX)
 
 
