@@ -17,11 +17,4 @@ class Yang
 }
 ```
 
-<body>
-<div>
-
-</div>
-</body>
-
-![](../../../satic/images/2024-08-24-08-44-53-image.png)
-
+![](../../../static/images/2024-08-24-09-48-14-image.png)
